@@ -6,7 +6,7 @@ This project implements a time series prediction system for product ordering, fo
 - Minimum data requirement (4 weeks) ensures reliable predictions
 - Trend analysis using recent data helps capture current market dynamics
 - Confidence scoring helps in assessing prediction reliability
-\
+
 ## PurchaseOrderPredictor Class
 
 ```python
